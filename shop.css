@@ -175,3 +175,24 @@ ul{
     color: #ee626b;
     cursor: pointer;
 }
+.g-card:hover{
+      transform: scale(1.1);
+      transition: 0.3s;
+      box-shadow: 2px solid gray;
+      cursor: pointer;
+}
+
+
+.g-cardd:hover{
+      transform: scale(1.1);
+      transition: 0.3s;
+      box-shadow: 2px solid gray;
+      cursor: pointer;
+}
+
+.g-cardd2:hover{
+      transform: scale(1.1);
+      transition: 0.3s;
+      box-shadow: 2px solid gray;
+      cursor: pointer;
+}
